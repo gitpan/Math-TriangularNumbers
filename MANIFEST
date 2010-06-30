@@ -1,0 +1,12 @@
+LICENSE
+Makefile.PL
+MANIFEST
+t/Math-TriangularNumbers.t
+t/T.t
+t/Ti.t
+t/Tli.t
+t/Tri.t
+t/example.t
+t/is_T.t
+lib/Math/TriangularNumbers.pm
+META.yml                                 Module meta-data (added by MakeMaker)
